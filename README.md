@@ -87,3 +87,6 @@ This table is related to the additional services that e-commerce has.
 ## API
 
 ### Structure 
+
+
+[![N|Solid](https://user-images.githubusercontent.com/57742000/85934139-534e2900-b8a4-11ea-985b-03aaa5d986db.png)](https://user-images.githubusercontent.com/57742000/85934139-534e2900-b8a4-11ea-985b-03aaa5d986db.png)
