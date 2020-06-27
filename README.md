@@ -83,7 +83,7 @@ This table is related to the additional services that e-commerce has.
 * **product_gallery**: Repo of gallery.
 * **delivery_address**: Users address.
 
-[![N|Solid](https://user-images.githubusercontent.com/57742000/85933961-6e1f9e00-b8a2-11ea-9e0f-dcfa8702d219.png)](https://user-images.githubusercontent.com/57742000/85933961-6e1f9e00-b8a2-11ea-9e0f-dcfa8702d219.png)
+[![N|Solid](https://user-images.githubusercontent.com/57742000/85934079-af647d80-b8a3-11ea-9281-33b4fc93fe75.png)](https://user-images.githubusercontent.com/57742000/85934079-af647d80-b8a3-11ea-9281-33b4fc93fe75.png)
 ## API
 
 ### Structure 
