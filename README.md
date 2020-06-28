@@ -196,3 +196,5 @@ The main tools used in the development of the API were:
 - mysql workbench
 
 [![N|Solid](https://www.logolynx.com/images/logolynx/87/872481164d523dd24b3577852ce5ff81.jpeg)](https://www.logolynx.com/images/logolynx/87/872481164d523dd24b3577852ce5ff81.jpeg)
+
+[![N|Solid](https://user-images.githubusercontent.com/57742000/85955790-d45dfc80-b946-11ea-99ee-807d1038fb6e.png)](https://user-images.githubusercontent.com/57742000/85955790-d45dfc80-b946-11ea-99ee-807d1038fb6e.png)
